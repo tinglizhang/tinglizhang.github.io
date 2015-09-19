@@ -3,23 +3,23 @@
   border: 3px solid #ffffff;
 }
 .jumbotron {
-  background-image:url('http://www.momorialcards.com/images/light_textured_backround.jpg');
+  background-image:url('http://41.media.tumblr.com/8ec7d563b0719d7e911612aecab842e9/tumblr_mjk91qPHOS1qcdtsho1_1280.jpg');
   height: 500px;
 }
-h1 {
-    color: orange;
+h1 {font-size:30px;
+    color:orange;
 }
-h2{
-   color:red;
+h2{font-size: 25px;
+   color:orange;
 }
-h3{
-   color:red;
+h3{font-size: 25px;
+   color:orange;
 }
-h4{
-   color:red;
+h4{font-size: 25px;
+   color:orange;
 }
 p {
     font-family: "Times New Roman";
     font-size: 20px;
+    color:black;
 }
-
