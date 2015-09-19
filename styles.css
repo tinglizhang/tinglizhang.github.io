@@ -2,6 +2,10 @@
   padding: 23px;
   border: 3px solid #ffffff;
 }
+.jumbotron {
+  background-image:url('http://www.momorialcards.com/images/light_textured_backround.jpg');
+  height: 500px;
+}
 h1 {
     color: orange;
 }
